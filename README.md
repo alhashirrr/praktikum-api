@@ -1,4 +1,4 @@
-## OKTA BENALDI
+## ALHASHIR
 ## Membuat Controller
 1.php artisan make:controller -r
 2.php artisan make:migration 
